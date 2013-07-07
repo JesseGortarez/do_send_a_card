@@ -1,0 +1,26 @@
+[	
+
+	{
+		"img": "img/thmb/pic.jpg",
+		"value": "Design 1",
+		"status":""
+	},
+	
+	{
+		"img": "img/thmb/sunflower.jpg",
+		"value": "Design 2",
+		"status":""
+	},
+	
+	{
+		"img": "img/thmb/pic2.jpg",
+		"value": "Design 3",
+		"status":""
+	}, 
+	
+	{
+		"img": "img/thmb/blank.png",
+		"value": "Design 4",
+		"status":""
+	}
+]
